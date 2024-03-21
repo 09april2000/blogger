@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/blogger/static/css/main.eb4e8229.css",
-    "main.js": "/blogger/static/js/main.9e21d86c.js",
+    "main.js": "/blogger/static/js/main.5e8aa3e6.js",
     "index.html": "/blogger/index.html",
     "main.eb4e8229.css.map": "/blogger/static/css/main.eb4e8229.css.map",
-    "main.9e21d86c.js.map": "/blogger/static/js/main.9e21d86c.js.map"
+    "main.5e8aa3e6.js.map": "/blogger/static/js/main.5e8aa3e6.js.map"
   },
   "entrypoints": [
     "static/css/main.eb4e8229.css",
-    "static/js/main.9e21d86c.js"
+    "static/js/main.5e8aa3e6.js"
   ]
 }
